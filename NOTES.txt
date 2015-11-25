@@ -1,0 +1,5 @@
+* Use og: tags to give info to facebook
+* For some reason embedding doesn't work... the embedded page is downloaded, but then it just shows the "Download File" link.
+* sketchfab works fine (e.g. share this link "https://sketchfab.com/models/3nXiIkAd3IlHVNc4hqw4VmaX3tK")
+* My test: https://space2.github.io/test_share.html (try to share it on facebook)
+* facebook open graph debugger: https://developers.facebook.com/tools/debug/og/object/
